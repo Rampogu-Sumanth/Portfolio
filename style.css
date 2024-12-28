@@ -1,0 +1,24 @@
+#body{
+    margin: 5px;
+}
+#h1{
+    padding: 5px;
+    background-color: yellow;
+    color: green;
+    text-decoration: underline;
+}
+#input{
+    padding: 5px;
+    width: 100%;
+}
+#button{
+    width: 50%;
+    background-color: green;
+    color: white;
+}
+#footer{
+    width: 100%;
+    color: white;
+    background-color: black;
+    padding:20px;
+}
